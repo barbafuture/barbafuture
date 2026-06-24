@@ -42,7 +42,7 @@ Analista de Sistemas Pleno especializado em TOTVS Protheus, com sólida experiê
 ENGLISH VERSION
 # 👨‍💻 Davi Girundi
 
-Senior Systems Analyst specializing in TOTVS Protheus with strong experience in ERP sustainment, business process optimization, systems integration, and technical support.
+Systems Analyst specializing in TOTVS Protheus with strong experience in ERP sustainment, business process optimization, systems integration, and technical support.
 
 ### Tech Stack
 - TOTVS Protheus
