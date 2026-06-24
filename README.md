@@ -1,6 +1,6 @@
 # 👨‍💻 Davi Girundi
 
-Analista de Sistemas Sênior especializado em TOTVS Protheus, com sólida experiência em sustentação de ERP, otimização de processos de negócio, integrações de sistemas e suporte técnico funcional.
+Analista de Sistemas Pleno especializado em TOTVS Protheus, com sólida experiência em sustentação de ERP, otimização de processos de negócio, integrações de sistemas e suporte técnico funcional.
 
 ### 🚀 Stack e Tecnologias
 - TOTVS Protheus
@@ -38,6 +38,36 @@ Analista de Sistemas Sênior especializado em TOTVS Protheus, com sólida experi
 📍 Belo Horizonte - MG, Brasil
 
 📫 Aberto a networking, consultorias, projetos de tecnologia e oportunidades relacionadas a TOTVS Protheus, ERP, dados e inovação.## Hi there 👋
+
+ENGLISH VERSION
+# 👨‍💻 Davi Girundi
+
+Senior Systems Analyst specializing in TOTVS Protheus with strong experience in ERP sustainment, business process optimization, systems integration, and technical support.
+
+### Tech Stack
+- TOTVS Protheus
+- SQL Server
+- Power BI
+- SmartView
+- ADVPL
+- APIs & Integrations
+- Scrum & Agile Practices
+
+### Expertise
+- ERP Support (N2/N3)
+- Incident Analysis & Troubleshooting
+- Process Mapping & Optimization
+- System Parameterization
+- User Training & Business Support
+- Continuous Improvement
+
+### Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Advanced Software Development
+
+📍 Belo Horizonte, Brazil
+📫 Open to networking, consulting opportunities, and technology projects.
 
 <!--
 **barbafuture/barbafuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
