@@ -1,4 +1,4 @@
-# 👨‍💻 Davi Girundi
+# Davi Girundi
 
 Analista de Sistemas Pleno especializado em TOTVS Protheus, com sólida experiência em sustentação de ERP, otimização de processos de negócio, integrações de sistemas e suporte técnico funcional.
 
