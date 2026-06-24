@@ -32,7 +32,7 @@ Analista de Sistemas Pleno especializado em TOTVS Protheus, com sólida experiê
 - Compras (SIGACOM)
 - Estoque/Custos (SIGAEST)
 - Faturamento (SIGAFAT)
-- Gestão de Contratos (SIGAEIC)
+- Easy Import Cotrol (SIGAEIC)
 - Manutenção de Ativos (SIGAMNT)
 
 📍 Belo Horizonte - MG, Brasil
