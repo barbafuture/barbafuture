@@ -37,9 +37,11 @@ Analista de Sistemas Pleno especializado em TOTVS Protheus, com sólida experiê
 
 📍 Belo Horizonte - MG, Brasil
 
-📫 Aberto a networking, consultorias, projetos de tecnologia e oportunidades relacionadas a TOTVS Protheus, ERP, dados e inovação.## Hi there 👋
+📫 Aberto a networking, consultorias, projetos de tecnologia e oportunidades relacionadas a TOTVS Protheus, ERP, dados e inovação.
 
 -- ENGLISH VERSION --
+
+## Hi there 👋
 
 # Davi Girundi
 
